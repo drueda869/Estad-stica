@@ -1,0 +1,2 @@
+# Estad-stica
+Estadîstica inferencial
